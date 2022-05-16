@@ -1,0 +1,3 @@
+*.exe
+terraform.tfstate.backup
+terraform.tfstate*
